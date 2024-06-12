@@ -1,0 +1,22 @@
+{
+  "name": "eanniversaires/api",
+  "description": "API pour le travail pratique individuel 2024 de Noé henchoz (eAnniversaires)",
+  "homepage": "https://e-anniversaires.emf-infopro-tpi.ch",
+  "version": "1.0.0",
+  "type": "project",
+  "require": {
+    "firebase/php-jwt": "^6.10",
+    "ext-pdo": "*",
+    "ext-json": "*",
+    "ext-curl": "*",
+    "phpmailer/phpmailer": "^6.9"
+  },
+  "authors": [
+    {
+      "name": "Noé Henchoz",
+      "email": "nhenchoz122@icloud.com",
+      "homepage": "https://henchoz.org",
+      "role": "Developer"
+    }
+  ]
+}
